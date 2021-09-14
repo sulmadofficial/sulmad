@@ -1,14 +1,11 @@
+![icon](https://user-images.githubusercontent.com/88274078/133227263-25ae52b3-c07c-4c50-aa0a-242de9be38a3.jpg)
 # SCRIPT TERMUX - MOONTON ACCOUNT CHECKER
-
-![Image](https://raw.githubusercontent.com/fdciabdul/fbchecker/master/ss.png)
-[![license](https://img.shields.io/github/license/dwisiswant0/WiFiID.svg)](https://github.com/fdciabdul/fbchecker/blob/master/LICENSE)
-
 Script Termux - Moonton Account Checker
 How To Installation :
 ```
 apt install git -y
 apr install php -y
-git clone https://github.com/fdciabdul/fbchecker
+git clone 
 cd moonton
 php moonton.php
 ```
@@ -18,5 +15,5 @@ Usage
  php moonton.php uncheck.txt
 ```
 
-- Website : [taqinwebs](https://sulmadapp.web.app)
+- Website : [SulmadApp](https://sulmadapp.web.app)
 
